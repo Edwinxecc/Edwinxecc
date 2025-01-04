@@ -1,7 +1,7 @@
 
 # Hola, soy Edwin 👋
 
-Desarrollador apasionado por la tecnología. Me especializo en **Desarollo Web** y siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.
+Desarrollador apasionado por la tecnología. Me Siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.
 <!--
 ## 🛠 Tecnologías que utilizo
 
