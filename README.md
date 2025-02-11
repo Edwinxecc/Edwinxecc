@@ -3,7 +3,7 @@
 
 Desarrollador apasionado por la tecnología. Siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.
 
-## Contactame.
+## oc
 <!--
 ## 🛠 Tecnologías que utilizo
 
