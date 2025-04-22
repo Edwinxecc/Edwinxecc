@@ -1,4 +1,4 @@
-<h1>Hola, yo soy</h1>
+<h1>Hola, me llamo Edwin</h1>
 <p>Desarrollador apasionado por la tecnología. Siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.</p>
 <h2>Lenguajes y herramientas</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
