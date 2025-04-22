@@ -1,33 +1,9 @@
+<h1 align="center">Hola, mi soy Edwin</h1>
+<h3 align="center">Desarrollador apasionado por la tecnología. Siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.</h3>
 
-# Hola, soy Edwin 👋
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Desarrollador apasionado por la tecnología. Siempre busco aprender y aplicar nuevas herramientas para crear soluciones eficientes.
-
-
-<!--
-## 🛠 Tecnologías que utilizo
-
-- **Lenguajes**: JavaScript, Python, TypeScript, Java, SQL.
-- **Frameworks**: React, Node.js, Django, Flask.
-- **Bases de datos**: MySQL, PostgreSQL, MongoDB.
-- **DevOps**: Docker, Kubernetes, AWS.
-
-## 📂 Proyectos destacados
-
-### [Proyecto 1](enlace)
-Descripción breve y tecnologías usadas.
-
-### [Proyecto 2](enlace)
-Descripción breve y tecnologías usadas.
-
-### [Proyecto 3](enlace)
-Descripción breve y tecnologías usadas.
-
-## 📬 Contáctame
-
-- **LinkedIn**: [tu-linkedin](enlace)
-- **Correo**: [tu-email](mailto:tu-email)
--->
----
-> "La tecnología es solo una herramienta, las personas marcan la diferencia."
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
