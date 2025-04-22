@@ -11,3 +11,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinxecc&show_icons=true&locale=en&layout=compact" alt="edwinxecc" /></p>
 
 
+<div style="background-color:#f2f2f2; padding: 20px; border-radius: 10px;">
+  <h2>¡Hola! 👋</h2>
+  <p>Este es un bloque con fondo gris claro.</p>
+</div>
