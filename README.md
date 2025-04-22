@@ -9,3 +9,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" color="ff00" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinxecc&show_icons=true&locale=en&layout=compact" alt="edwinxecc" /></p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/0000FF/FFFFFF?text=Tu+Texto+Aquí" alt="Banner">
+</p>
+
