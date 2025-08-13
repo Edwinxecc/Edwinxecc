@@ -11,4 +11,4 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinxecc&layout=compact&theme=" alt=edwinxecc />
+<!--<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinxecc&layout=compact&theme=" alt=edwinxecc />-->
